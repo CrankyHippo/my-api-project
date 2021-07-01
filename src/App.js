@@ -8,6 +8,8 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
+
+        <button id="fetchUserDataBtn">Fetch User Data</button>
         
         <h1>React API Practice Project</h1>
         <a
