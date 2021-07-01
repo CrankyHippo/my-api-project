@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/CrankyHippo/my-api-project/static/css/main.2ca53ad1.chunk.css",
-    "main.js": "/CrankyHippo/my-api-project/static/js/main.43c1f661.chunk.js",
-    "main.js.map": "/CrankyHippo/my-api-project/static/js/main.43c1f661.chunk.js.map",
-    "runtime-main.js": "/CrankyHippo/my-api-project/static/js/runtime-main.bf90aa44.js",
-    "runtime-main.js.map": "/CrankyHippo/my-api-project/static/js/runtime-main.bf90aa44.js.map",
-    "static/js/2.93cad2f9.chunk.js": "/CrankyHippo/my-api-project/static/js/2.93cad2f9.chunk.js",
-    "static/js/2.93cad2f9.chunk.js.map": "/CrankyHippo/my-api-project/static/js/2.93cad2f9.chunk.js.map",
-    "static/js/3.52f7a964.chunk.js": "/CrankyHippo/my-api-project/static/js/3.52f7a964.chunk.js",
-    "static/js/3.52f7a964.chunk.js.map": "/CrankyHippo/my-api-project/static/js/3.52f7a964.chunk.js.map",
-    "index.html": "/CrankyHippo/my-api-project/index.html",
-    "static/css/main.2ca53ad1.chunk.css.map": "/CrankyHippo/my-api-project/static/css/main.2ca53ad1.chunk.css.map",
-    "static/js/2.93cad2f9.chunk.js.LICENSE.txt": "/CrankyHippo/my-api-project/static/js/2.93cad2f9.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/CrankyHippo/my-api-project/static/media/logo.6ce24c58.svg"
+    "main.css": "/my-api-project/static/css/main.2ca53ad1.chunk.css",
+    "main.js": "/my-api-project/static/js/main.43c1f661.chunk.js",
+    "main.js.map": "/my-api-project/static/js/main.43c1f661.chunk.js.map",
+    "runtime-main.js": "/my-api-project/static/js/runtime-main.66308011.js",
+    "runtime-main.js.map": "/my-api-project/static/js/runtime-main.66308011.js.map",
+    "static/js/2.93cad2f9.chunk.js": "/my-api-project/static/js/2.93cad2f9.chunk.js",
+    "static/js/2.93cad2f9.chunk.js.map": "/my-api-project/static/js/2.93cad2f9.chunk.js.map",
+    "static/js/3.52f7a964.chunk.js": "/my-api-project/static/js/3.52f7a964.chunk.js",
+    "static/js/3.52f7a964.chunk.js.map": "/my-api-project/static/js/3.52f7a964.chunk.js.map",
+    "index.html": "/my-api-project/index.html",
+    "static/css/main.2ca53ad1.chunk.css.map": "/my-api-project/static/css/main.2ca53ad1.chunk.css.map",
+    "static/js/2.93cad2f9.chunk.js.LICENSE.txt": "/my-api-project/static/js/2.93cad2f9.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/my-api-project/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.bf90aa44.js",
+    "static/js/runtime-main.66308011.js",
     "static/js/2.93cad2f9.chunk.js",
     "static/css/main.2ca53ad1.chunk.css",
     "static/js/main.43c1f661.chunk.js"
