@@ -1,7 +1,7 @@
 import logo from "./logo.svg";
 import "./App.css";
 import Posts from "./Posts.js";
-import Countries from "./countries";
+import Countries from "./countries.js";
 
 function App() {
   return (
@@ -10,7 +10,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
 
         <button id="fetchUserDataBtn">Fetch User Data</button>
-        
+
         <h1>React API Practice Project</h1>
         <a
           className="App-link"
